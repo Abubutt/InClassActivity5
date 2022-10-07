@@ -1,0 +1,17 @@
+/Users/abubutt/Desktop/WebAPIClient/bin/Debug/net6.0/WebAPIClient
+/Users/abubutt/Desktop/WebAPIClient/bin/Debug/net6.0/WebAPIClient.deps.json
+/Users/abubutt/Desktop/WebAPIClient/bin/Debug/net6.0/WebAPIClient.runtimeconfig.json
+/Users/abubutt/Desktop/WebAPIClient/bin/Debug/net6.0/WebAPIClient.dll
+/Users/abubutt/Desktop/WebAPIClient/bin/Debug/net6.0/WebAPIClient.pdb
+/Users/abubutt/Desktop/WebAPIClient/obj/Debug/net6.0/WebAPIClient.csproj.AssemblyReference.cache
+/Users/abubutt/Desktop/WebAPIClient/obj/Debug/net6.0/WebAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abubutt/Desktop/WebAPIClient/obj/Debug/net6.0/WebAPIClient.AssemblyInfoInputs.cache
+/Users/abubutt/Desktop/WebAPIClient/obj/Debug/net6.0/WebAPIClient.AssemblyInfo.cs
+/Users/abubutt/Desktop/WebAPIClient/obj/Debug/net6.0/WebAPIClient.csproj.CoreCompileInputs.cache
+/Users/abubutt/Desktop/WebAPIClient/obj/Debug/net6.0/WebAPIClient.dll
+/Users/abubutt/Desktop/WebAPIClient/obj/Debug/net6.0/refint/WebAPIClient.dll
+/Users/abubutt/Desktop/WebAPIClient/obj/Debug/net6.0/WebAPIClient.pdb
+/Users/abubutt/Desktop/WebAPIClient/obj/Debug/net6.0/WebAPIClient.genruntimeconfig.cache
+/Users/abubutt/Desktop/WebAPIClient/obj/Debug/net6.0/ref/WebAPIClient.dll
+/Users/abubutt/Desktop/WebAPIClient/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/abubutt/Desktop/WebAPIClient/obj/Debug/net6.0/WebAPIClient.csproj.CopyComplete
